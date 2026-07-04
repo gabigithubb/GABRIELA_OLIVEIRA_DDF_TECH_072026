@@ -36,7 +36,7 @@ A garantia da qualidade dos dados é uma etapa crítica para a confiabilidade do
 
 Os testes atestaram a integridade da base para consumo analítico, apresentando status de **[APROVADO]**. O ficheiro com o código-source (`.ipynb`) encontra-se anexado a este repositório.
 
-![Relatório de Qualidade de Dados gerado via Python](image_ae7521.png)
+![Relatório de Qualidade de Dados gerado via Python](integridadeDados.png)
 
 ---
 
@@ -49,6 +49,10 @@ Para extrair valor estratégico e apoiar a tomada de decisão gerencial, foi des
 3. **Pedidos de Alto Ticket:** Rastreio das transações de maior valor agregado.
 4. **Dispersão de Custos Logísticos:** Monitorização das maiores despesas de frete por pedido.
 5. **Proporção Produto vs Frete:** Avaliação do peso do custo logístico sobre o valor da mercadoria.
+
+🔗 [Link para o Catálogo do Dataset na Dadosfera](https://metabase-treinamentos.dadosfera.ai/dashboard/298-painel-de-gestao-e-commerce)
+
+![Dataset catalogado com descrição e zona definidas](relatorio.png)
 
 **Exemplo de Query SQL utilizada (Top Vendedores):**
 ```sql
