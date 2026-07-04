@@ -12,7 +12,7 @@ Este repositório contém a resolução do Case Técnico para a vaga de Estágio
 
 Para a resolução do case, foi realizada a ingestão dos dados brutos na plataforma Dadosfera através do módulo de Coleta. O dataset selecionado foi o *"Brazilian E-Commerce Public Dataset by Olist"*, que simula o cenário real de uma grande operação de e-commerce. A carga foi concluída com sucesso, totalizando mais de 100.000 registos, atendendo ao requisito de volumetria para garantir a robustez das análises.
 
-![Confirmação da carga de dados na plataforma Dadosfera](image_ad9a8a.png)
+![Confirmação da carga de dados na plataforma Dadosfera](databaseOlist.png)
 
 ---
 
