@@ -24,7 +24,7 @@ Após a ingestão, os dados foram devidamente catalogados seguindo as boas prát
 
 🔗 [Link para o Catálogo do Dataset na Dadosfera](https://app.dadosfera.ai/pt-BR/catalog/data-assets/32b20117-ea38-4fed-adda-ad59df0e19f2)
 
-![Dataset catalogado com descrição e zona definidas](image_ae870a.png)
+![Dataset catalogado com descrição e zona definidas](databaseCatalog.png)
 
 ---
 
